@@ -35,10 +35,9 @@ O estudo visa analisar o impacto do **apoio educacional percebido** na **intenç
 - **Amostra**: 2218 estudantes finalistas de 14 universidades no Vietname.
 - **Instrumento**: Questionário baseado em escalas validadas da literatura, com escala de Likert de 5 pontos.
 - **Análises**:
-  - Alpha de Cronbach
   - Análise Fatorial Confirmatória (CFA)
   - Modelagem de Equações Estruturais (SEM)
-  - Bootstrapping (6000 amostras, IC de 90%)
+
 
 ---
 
