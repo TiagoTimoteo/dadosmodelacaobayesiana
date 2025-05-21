@@ -26,8 +26,6 @@ O estudo visa analisar o impacto do **apoio educacional percebido** na **intenç
 | Ficheiro           | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
 | `data.csv`         | Base de dados original com 2218 observações e variáveis estudadas.        |
-| `tabela_modelos_desempenho.docx` | Tabela de desempenho dos modelos aplicados a diferentes frequências.     |
-| `artigo.pdf`       | Artigo completo publicado na revista *Data in Brief*.                     |
 | `README.md`        | Este ficheiro de descrição do repositório.                                |
 
 ---
