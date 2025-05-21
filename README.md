@@ -13,11 +13,11 @@ Este repositório contém o dataset e documentação associados ao artigo:
 
 O estudo visa analisar o impacto do **apoio educacional percebido** na **intenção empreendedora** dos estudantes universitários finalistas no Vietname, com destaque para variáveis mediadoras como:
 
-- Autoeficácia empreendedora (ESE)
-- Atitude em relação ao empreendedorismo (ATE)
-- Normas subjetivas (SN)
-- Controlo comportamental percebido (PBC)
-- Intenção empreendedora (EI)
+- Perceived educational supports at universities (UE)
+- Attitude towards entrepreneurship (ATE)
+- Entrepreneurial self-efficacy (ESE)
+- Subjective norms (SN)
+- Entrepreneurial intention (EI)
 
 ---
 
@@ -36,7 +36,6 @@ O estudo visa analisar o impacto do **apoio educacional percebido** na **intenç
 - **Instrumento**: Questionário baseado em escalas validadas da literatura, com escala de Likert de 5 pontos.
 - **Análises**:
   - Alpha de Cronbach
-  - Análise Fatorial Exploratória (EFA)
   - Análise Fatorial Confirmatória (CFA)
   - Modelagem de Equações Estruturais (SEM)
   - Bootstrapping (6000 amostras, IC de 90%)
